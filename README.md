@@ -21,12 +21,12 @@
 
 ### `pkgvi`
 
-Run `M-x pkgvi RET` and choose a file. When you save changes to the
+Type `M-x pkgvi RET` and choose a file. When you save changes to the
 file, a backup file is automatically created if it doesn't exist yet.
 
 ### `pkgdiff`
 
-Open a file and run `M-x pkgdiff RET`. It starts an Ediff session
+Open a file and type `M-x pkgdiff RET`. It starts an Ediff session
 showing differences between the backup and the current state.
 
 
